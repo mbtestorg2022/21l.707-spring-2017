@@ -186,7 +186,7 @@ No assigned readings
 {{< tdopen >}}
 
 
-Glasse, Hannah. "To the Reader," and "Chapters 1, 3, 15, and 16." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Art of Cookery Made Plain and Easy: The Revolutionary 1805 Classic_ (PDF - 25.7MB)](http://ia802605.us.archive.org/25/items/artcookerymadep02glasgoog/artcookerymadep02glasgoog.pdf). Reprint edition. Dover Publications, 2015. ISBN: 9780486795768. \[Preview with [Google Books](https://books.google.com/books?id=BJY58UqSEMUC&lpg=PP1&dq=hannah%20glasse%20the%20art%20of%20cookery&pg=PP1#v=onepage&q&f=false)\]
+Glasse, Hannah. "To the Reader," and "Chapters 1, 3, 15, and 16." In [_The Art of Cookery Made Plain and Easy: The Revolutionary 1805 Classic_ (PDF - 25.7MB)](http://ia802605.us.archive.org/25/items/artcookerymadep02glasgoog/artcookerymadep02glasgoog.pdf). Reprint edition. Dover Publications, 2015. ISBN: 9780486795768. \[Preview with [Google Books](https://books.google.com/books?id=BJY58UqSEMUC&lpg=PP1&dq=hannah%20glasse%20the%20art%20of%20cookery&pg=PP1#v=onepage&q&f=false)\]
 
 Secondary sources:
 
@@ -220,7 +220,7 @@ The Victorian Age: Separate Spheres
 {{< tdopen >}}
 
 
-Acton, Eliza. "Preface" and "Chapters 1, 9, 16, 17, and 32." ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)In [_Modern Cookery for Private Families_ (PDF - 38.4MB)](http://ia800302.us.archive.org/15/items/moderncookeryfo00actogoog/moderncookeryfo00actogoog.pdf). Quadrille Publishing, 2011. ISBN: 9781844009596. \[Preview with [Google Books](https://books.google.com/books?id=kXsCAAAAYAAJ&dq=eliza%20acton%20modern%20cookery%20for%20private%20families&pg=PR3#v=onepage&q&f=false)\]
+Acton, Eliza. "Preface" and "Chapters 1, 9, 16, 17, and 32." In [_Modern Cookery for Private Families_ (PDF - 38.4MB)](http://ia800302.us.archive.org/15/items/moderncookeryfo00actogoog/moderncookeryfo00actogoog.pdf). Quadrille Publishing, 2011. ISBN: 9781844009596. \[Preview with [Google Books](https://books.google.com/books?id=kXsCAAAAYAAJ&dq=eliza%20acton%20modern%20cookery%20for%20private%20families&pg=PR3#v=onepage&q&f=false)\]
 
 Secondary source:
 
@@ -312,7 +312,7 @@ The Empire Abroad
 {{< tdopen >}}
 
 
-Kenney-Herbert, Wyvern. "Part I: Introduction and Chapters 2–4, 15, 28–30" and "Addenda." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Culinary Jottings for Madras_ (PDF - 33.3MB)](http://ia802701.us.archive.org/23/items/culinaryjottings00kenn/culinaryjottings00kenn.pdf). Facsimile edition. Prospect Books, 2007. ISBN: 9781903018538. \[Preview with [Google Books](https://books.google.com/books?id=9fbOhlqtvdYC&lpg=PP1&dq=wyvern%20culinary%20jottings%20for%20madras&pg=PP1#v=onepage&q&f=false)\]
+Kenney-Herbert, Wyvern. "Part I: Introduction and Chapters 2–4, 15, 28–30" and "Addenda." In [_Culinary Jottings for Madras_ (PDF - 33.3MB)](http://ia802701.us.archive.org/23/items/culinaryjottings00kenn/culinaryjottings00kenn.pdf). Facsimile edition. Prospect Books, 2007. ISBN: 9781903018538. \[Preview with [Google Books](https://books.google.com/books?id=9fbOhlqtvdYC&lpg=PP1&dq=wyvern%20culinary%20jottings%20for%20madras&pg=PP1#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
